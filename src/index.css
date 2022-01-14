@@ -74,7 +74,7 @@ h2 {
 	line-height: 1;
 	font-family: Helvetica,Arial,sans-serif;
 	font-weight: 200;
-	color: white;
+	color: rgb(75, 70, 70);
 	margin: 0;
 	display: block;
 	margin-block-start: 0.67em;
@@ -135,7 +135,7 @@ a:hover {
 }
 
 header {
-	background:#011235f0;
+	background:#dce2eef0;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content :space-evenly;
@@ -214,7 +214,7 @@ nav a:hover {
 
 nav li {
 	cursor: pointer;
-	color: white;
+	color: rgb(82, 78, 78);
 	
 }
 
@@ -228,7 +228,9 @@ textarea {
 }
 
 
-
+.meBrand {
+	
+}
 
 .container {
 	width: 85%;
