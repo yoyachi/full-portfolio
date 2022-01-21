@@ -7,7 +7,7 @@ function About() {
       <div className="card shadow border-0">
         <div>
           <h1 id="about">Julissa Hash</h1>
-          <p>Software Developer</p>
+          <p>Front End Developer</p>
           <p>Austin, Texas</p>
         </div>
         <div className="image1">
