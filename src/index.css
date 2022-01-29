@@ -62,12 +62,6 @@ h6 {
 	line-height: 1.25;
 }
 
-h1 {
-	font-size: 2.25rem;
-	color: rgb(106, 86, 167);
-}
-
-
 
 h2 {
 	font-size: 2rem;
@@ -142,7 +136,7 @@ header {
 	padding: 1rem;
 	text-align: center;
 	margin: 0 auto;
-	box-shadow: 0px 0px 0px 6px rgb(0 0 0 / 6%);
+	box-shadow: 0px 0px 0px 6px rgb(0 0 0 / 4%);
 }
 
 header a {
@@ -302,7 +296,15 @@ textarea {
 	cursor: pointer;
 }
 
+.myName {
 
+	font-size: 2.25rem;
+	color: rgb(167, 154, 207);
+}
+
+.title {
+	font-style: oblique!important;
+}
 
 .modalBackdrop {
 	background: rgba(0, 0, 0, .65);
@@ -412,9 +414,9 @@ textarea {
 
 .card {
 	width: 100%;
-	padding: 10%;
+	padding: 20%;
 	text-align: center;
-	background-color: rgba(220, 225, 231, 0.831);
+	background-color: rgba(14, 81, 126, 0.831);
 	box-shadow: 0px 3px 4px 0px rgb(0 0 0 / 14%);
 	justify-content: center;
   
@@ -435,10 +437,11 @@ textarea {
 }
 
 .card-text {
+	font-family: roboto;
 	font-size: 0.75rem;
 	font-weight: 300;
 	height: 8rem;
-	color: rgb(116, 111, 111);
+	color: rgb(250, 246, 246);
 	border-color: rgb(116, 111, 111);;
 
 }
@@ -460,8 +463,9 @@ textarea {
 .card-link {
 	font-family: 'Montserrat', 'sans-serif', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	font-size: 0.70rem;
-	color: white;
-	background-color: rgb(74, 77, 95);
+	color: black;
+	background-color: white;
+	padding: ;
 }
 
 .padding {
@@ -470,7 +474,7 @@ textarea {
 
 .intro {
 	padding: 2rem;
-	border: 0.2rem solid rgb(222, 217, 235);
+	border: 0.2rem solid rgb(219, 221, 224);
 	box-shadow: 0px 7px 10px 0px rgb(0 0 0 / 14%);
 }
 /* Viewports Styling start*/

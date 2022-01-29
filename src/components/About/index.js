@@ -6,9 +6,16 @@ function About() {
     <section className="my-5" >
       <div className="card shadow border-0">
         <div>
-          <h1 id="about">Julissa Hash</h1>
+          <div className='myName'>
+          <h1>Julissa Hash</h1>
+          </div>
+          <div className='tittle'>
           <p>Front End Developer</p>
-          <p>Austin, Texas</p>
+          </div>
+          <div className='city'>
+          <p>Austin, Texas</p> 
+          </div>
+          
         </div>
         <div className="image1">
           <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
