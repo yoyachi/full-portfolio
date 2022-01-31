@@ -9,13 +9,8 @@ function About() {
           <div className='myName'>
           <h1>Julissa Hash</h1>
           </div>
-          <div className='tittle'>
-          <p>Front End Developer</p>
-          </div>
-          <div className='city'>
-          <p>Austin, Texas</p> 
-          </div>
-          
+          <p className='career'>Front End Developer</p>
+          <p className='city'>Austin, Texas</p> 
         </div>
         <div className="image1">
           <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />

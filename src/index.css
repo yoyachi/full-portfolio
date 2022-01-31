@@ -267,6 +267,10 @@ textarea {
 .my-5 {
 	margin-top: var(--spacing-five);
 	margin-bottom: var(--spacing-five);
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:space-evenly ;
+
 }
 
 .px-1 {
@@ -302,8 +306,14 @@ textarea {
 	color: rgb(167, 154, 207);
 }
 
-.title {
-	font-style: oblique!important;
+.career {
+	font-size: 1.5rem!important;
+	color: #86d0dd;
+}
+
+.city {
+	font-size: 1rem!important;
+	color: #86d0dd;
 }
 
 .modalBackdrop {
@@ -342,13 +352,9 @@ textarea {
 	font-family: roboto;
 	font-size: 16px;
 	font-weight: 200;
-	padding: 10px 15px;
-
-	padding-top: 10%;
+	padding: 40px 15px;
 	
 }
-
-
 
 .footer {
 	display: flex;
