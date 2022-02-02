@@ -83,7 +83,7 @@ h3 {
 
 h4 {
 	font-size: 1.5rem;
-	color: steelblue;
+	color: rgb(66, 85, 224);
   
 }
 
@@ -250,6 +250,8 @@ textarea {
 .mx-2 {
 	margin-right: var(--spacing-two);
 	margin-left: var(--spacing-two);
+	color: rgb(75, 70, 70);
+	font-weight: 300;
 }
 
 .my-1 {
@@ -271,6 +273,12 @@ textarea {
 	flex-wrap: wrap;
 	justify-content:space-evenly ;
 
+}
+
+.my-a {
+	margin-top: var(--spacing-two);
+	margin-bottom: var(--spacing-two);
+	width: 100%;
 }
 
 .px-1 {
@@ -313,7 +321,7 @@ textarea {
 
 .city {
 	font-size: 1rem!important;
-	color: #86d0dd;
+	color: #ad8b35;
 }
 
 .modalBackdrop {
@@ -343,7 +351,7 @@ textarea {
 }
 
 .navActive {
-	color: rgb(112, 71, 194);
+	color: rgb(120, 58, 245);
 }
 
 .text {
@@ -360,14 +368,14 @@ textarea {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content:space-evenly ;
-	background:rgba(0, 0, 0, .5);
+	background:rgba(41, 30, 40, 0.5);
   padding-top: 10%;
   text-align: center;
 }
 .footer a {
   font-size: 50px;
   padding: 1rem;
-  color: #e7ecef;
+  color: rgb(61, 50, 50);
   
 }
 .photo {
@@ -439,7 +447,7 @@ textarea {
 
 .card-subtitle {
 	font-size: 1.2rem;
-	color: rgba(182, 177, 24, 0.982);
+	color: rgba(241, 234, 15, 0.982);
 }
 
 .card-text {
@@ -471,7 +479,8 @@ textarea {
 	font-size: 0.70rem;
 	color: black;
 	background-color: white;
-	padding: ;
+	padding: 1%;
+	border-radius: 1rem;
 }
 
 .padding {
