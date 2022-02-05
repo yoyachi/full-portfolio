@@ -17,6 +17,9 @@ function About() {
         <div className="image1">
           <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
         </div> 
+        <div className='saying'>
+        <p>“Travel is  fatal to prejudice, bigotry, and narrow mindedness, and many of our people need it sorely on these accounts.” <br/>~ Mark Twain~</p>
+        </div>
       </div>
       <div className='image2'>
         <img src={austinImage} className="my-a" style={{ width: "100%" }} alt="cover" />
