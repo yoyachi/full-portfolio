@@ -249,7 +249,6 @@ textarea {
 	margin-left: var(--spacing-two);
 	color: rgb(75, 70, 70);
 	font-weight: 300;
-	
 	max-width: 20%;
 	
 }
@@ -325,6 +324,14 @@ textarea {
 .city {
 	font-size: 1rem!important;
 	color: #ad8b35;
+}
+
+.saying {
+	
+	color: #86d0dd;
+	font-size: 15px;
+	font-weight: 300;
+
 }
 
 .modalBackdrop {
@@ -500,6 +507,8 @@ textarea {
 	box-shadow: 0px 7px 10px 0px rgb(0 0 0 / 14%);
 	font-size: 1rem;
 }
+
+
 /* Viewports Styling start*/
 @media only screen and (max-width: 980px) {}
 
