@@ -64,11 +64,11 @@ h6 {
 
 
 h2 {
-	font-size: 2rem;
+	font-size: 2.5rem;
 	line-height: 1;
 	font-family: Helvetica,Arial,sans-serif;
 	font-weight: 350;
-	color: rgb(75, 70, 70);
+	color: rgba(14, 81, 126, 0.831);
 	margin: 0;
 	display: block;
 	margin-block-start: 0.67em;
@@ -248,7 +248,8 @@ textarea {
 	margin-right: var(--spacing-two);
 	margin-left: var(--spacing-two);
 	color: rgb(75, 70, 70);
-	font-weight: 300;
+	font-size: 1.7rem;
+	font-weight: 350;
 	max-width: 20%;
 	
 }
@@ -331,6 +332,9 @@ textarea {
 	color: #86d0dd;
 	font-size: 15px;
 	font-weight: 300;
+	position: relative;
+	margin-top: 20rem;
+	
 
 }
 
@@ -505,7 +509,7 @@ textarea {
 	padding: 2rem;
 	border: 0.2rem solid rgb(219, 221, 224);
 	box-shadow: 0px 7px 10px 0px rgb(0 0 0 / 14%);
-	font-size: 1rem;
+
 }
 
 
