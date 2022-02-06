@@ -18,7 +18,7 @@ function About() {
           <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
         </div> 
         <div className='saying'>
-        <p>“Travel is  fatal to prejudice, bigotry, and narrow mindedness, and many of our people need it sorely on these accounts.” <br/>~ Mark Twain~</p>
+        <p>“Equality is the soul of liberty; there is, in fact, no liberty without it. <br/> ~ Frances Wright (1795 - 1852) Writer ~”</p>
         </div>
       </div>
       <div className='image2'>
