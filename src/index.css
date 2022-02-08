@@ -131,7 +131,7 @@ a:hover {
 }
 
 header {
-	background:#f1f3f7f0;
+	background:white;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content :space-evenly;
