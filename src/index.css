@@ -37,7 +37,7 @@ body {
 	padding: 0;
 	font-weight: 300;
 	line-height: 1.5;
-	font-size: 18px;
+	font-size: 18px!important;
 	letter-spacing: .1em;
 	background: #e9ebf1;
 	color:rgb(90, 99, 107);
@@ -208,7 +208,7 @@ nav a:hover {
 
 nav li {
 	cursor: pointer;
-	color: rgb(82, 78, 78);
+	
 	
 }
 
@@ -336,7 +336,7 @@ textarea {
 	font-weight: 300;
 	position: relative;
 	margin-top: 5rem;
-	
+	width: 85%;
 
 }
 
