@@ -66,7 +66,7 @@ h6 {
 
 
 h2 {
-	font-size: 2.5rem;
+
 	line-height: 1;
 	font-family: Helvetica,Arial,sans-serif;
 	font-weight: 350;
@@ -330,14 +330,11 @@ textarea {
 }
 
 .saying {
-	
 	color: #86d0dd;
 	font-size: 15px;
 	font-weight: 300;
-	position: relative;
 	margin-top: 5rem;
-	width: 85%;
-
+	
 }
 
 .modalBackdrop {
@@ -411,7 +408,7 @@ textarea {
 	padding: 50px;
 }
 
-.logo {
+/*.logo {
 	width: 50px;
 	height: 50px;
 	margin-bottom: 50px;
@@ -421,7 +418,7 @@ textarea {
 .logo:hover {
 	opacity: 0.5;
 }
-
+*/
 .center {
 	display: flex;
 	justify-content: center;
