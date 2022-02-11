@@ -22,7 +22,11 @@ function About() {
         </div>
       </div>
       <div className='image2'>
+      
         <img src={austinImage} className="my-a" style={{ width: "100%" }} alt="cover" />
+        <div>
+        <p><a href="https://www.austintexas.org/">Austin, Texas</a></p>
+        </div>
         </div>
       <div className="text">
         <p className='intro'>
