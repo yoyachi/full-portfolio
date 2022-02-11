@@ -243,7 +243,7 @@ textarea {
 
 .mx-1 {
 	margin-right: var(--spacing-one);
-	margin-left: var(--spacing-one);
+	
 }
 
 .mx-2 {
@@ -252,7 +252,7 @@ textarea {
 	color: rgb(75, 70, 70);
 	font-size: 1.7rem;
 	font-weight: 350;
-	max-width: 20%;
+	max-width: 30%;
 	
 }
 
@@ -334,6 +334,9 @@ textarea {
 	font-size: 15px;
 	font-weight: 300;
 	margin-top: 5rem;
+	padding: 1rem;
+	border: 1px solid;
+	border-color: #ad8b35;
 	
 }
 
