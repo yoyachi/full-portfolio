@@ -251,8 +251,9 @@ textarea {
 	margin-left: var(--spacing-two);
 	color: rgb(75, 70, 70);
 	font-size: 1.7rem;
-	font-weight: 350;
-	max-width: 30%;
+	font-weight: 500;
+	font-family: sans-serif;
+	text-transform: uppercase;
 	
 }
 
@@ -411,7 +412,7 @@ textarea {
 	padding: 50px;
 }
 
-/*.logo {
+.logo {
 	width: 50px;
 	height: 50px;
 	margin-bottom: 50px;
@@ -421,7 +422,7 @@ textarea {
 .logo:hover {
 	opacity: 0.5;
 }
-*/
+
 .center {
 	display: flex;
 	justify-content: center;
@@ -466,12 +467,17 @@ textarea {
 	font-size: 1.2rem;
 	color: rgba(241, 234, 15, 0.982);
 	padding-bottom: 1rem;
+	padding: 12px 13px;
+	border: 1px solid;
+	border-color: #ad8b35;
+	margin-left: 30%;
+    margin-right: 30%;
 }
 
 .card-text {
 	font-family: roboto;
 	font-size: 0.75rem;
-	font-weight: 300;
+	font-weight: 200;
 	height: 8rem;
 	color: rgb(250, 246, 246);
 	border-color: rgb(116, 111, 111);;
@@ -484,6 +490,7 @@ textarea {
 	color: rgb(216, 199, 199);
 	border-width: 1px;
 	border-color: white;
+	padding-top: 1rem;
 
 }
 
