@@ -131,14 +131,14 @@ a:hover {
 }
 
 header {
-	background:white;
+	background: rgba(189, 185, 185, 0.303);;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content :space-evenly;
 	padding: 1rem;
 	text-align: center;
 	margin: 0 auto;
-	box-shadow: 0px 7px 10px 0px rgb(0 0 0 / 14%);
+	
 }
 
 header a {
@@ -253,8 +253,12 @@ textarea {
 	font-size: 1.7rem;
 	font-weight: 500;
 	font-family: sans-serif;
-	text-transform: uppercase;
 	
+	
+}
+
+.meBrand {
+	text-transform: uppercase;
 }
 
 .my-1 {
@@ -368,7 +372,7 @@ textarea {
 }
 
 .navActive {
-	color: rgb(120, 58, 245);
+	color: rgba(14, 81, 126, 0.831);
 }
 
 .text {
